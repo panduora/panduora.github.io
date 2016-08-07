@@ -1,0 +1,27 @@
+# top level stuff you probably don't need to touch
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 4000
+safe: true
+
+# edit here to achieve your personal greatness
+url: http://panli889.github.io/
+#baseurl: /sustain/
+title: Pan Li
+author: Pan Li
+description: Personal blog and resume
+avatar: profile.png
+email: panli889@email.com
+github: panli889
+weibo: lpfighting
+linkedin: pan-li-1401b930
+stackoverflow: /users/1143065/pan-li
+
+#Comment out if you don't want disqus 
+disqus: username
+google_analytics: UA-69391421-1

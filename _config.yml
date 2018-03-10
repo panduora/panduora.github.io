@@ -28,7 +28,7 @@ defaults:
 paginate: 20
 
 #### Site
-title : Pan's Blog
+title : Panduora's Box
 tagline: Learn, Summary, and Think...
 assets: /assets
 baseurl:
